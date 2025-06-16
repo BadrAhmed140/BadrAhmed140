@@ -1,5 +1,11 @@
+
+
 <h1 align="center">Hi there 👋, I'm Badr Ahmed Abd Elhady</h1>
-<h3 align="center">Flutter Developer</h3>
+<p align="center">
+  <a href="https://github.com/BadrAhmed140">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=600&color=0D47A1&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Flutter+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
